@@ -1,115 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Japanese&display=swap');
+<h1 align='center' style="color: red;">Welcome to My Profile Outlander!👋</h1>
+<div align="center">
+   
+   **Fullstack Developer | AI & ML| Gen AI | Mobile Dev** <br> <br>
+   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/alvalens) [![committers.top badge](https://user-badge.committers.top/indonesia_private/Alvalens.svg)](https://user-badge.committers.top/indonesia_private/Alvalens)</a> 
+    
+   
+</div>
+<p align='center'> 
+   
+   <img src="https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee"/>
+</p>
 
-@layer mShadow, mGradientStroke;
 
-html, body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  background-color: #000;
-}
+### highlight 🔦
+* 😎 My name is **Alvalen**
+* 🌱 I’m currently learning Next JS and React Native
+* 👨‍💻 My portofolio avalible at: https://alvalens.my.id
+* 📫 How to reach me alvalen.shafel04@gmail.com
 
-@layer mShadow {
-	h1 {
-		/* Text Fill GRadient */
-		background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,112,9,1) 43%, rgba(0,212,255,1) 100%);
-		color: transparent;
-		text-fill-color: transparent;
-		-webkit-text-fill-color: transparent;
-		background-clip: text;
-		-webkit-background-clip: text;
+### About Me 📄
+Hello outlander, my name is **Alvalen Shafelbilyunazra**, a passionate and ambitious junior **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am a student at the esteemed **Universitas Negeri Malang**, where I'm in the midst of my exciting journey through the sixth semester of my **computer science** program. With the fire of ambition burning brightly in my heart, I venture forth into this mystical domain, where code weaves the **fabric of reality**, and websites are the portals to new adventures. The arcane arts of programming are my sword and shield, and I'm always ready to engage in battle with the most intricate challenges that the **digital wilderness** throws my way 🗺️⚔️🔥.
 
-		font-size: 6rem;
-		paint-order: stroke fill;
-		text-shadow: 3px 3px 0px cyan, 5px 5px 0px darkcyan;
-		transition: all 0.5s;
-	}
+### Tech Stack 🔥
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-	//h1::before {
-		content: "*";
-		font-size: 1em;
-		position: relative;
-		top: 0;
-		z-index: -1;
-		left: 0;
-		transition: all 0.5s;
-	}
+### Stats ⚡
+![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalens&hide=issues&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvalens&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-	h1 {
-		font-variation-settings: "wght" 100, "ital" 1, "rota" 20;
-		//transform: translate(-20px, -20px);
-		/* Multiple Shadows */
-		text-shadow: 10px 10px 0px #07bcccdd,
-			15px 15px 0px #e601c099,
-			22px 22px 0px #e9019a88,
-			31px 31px 0px #f4046877,
-			42px 42px 10px #48289666;
-		animation: hithere 1s ease infinite;
-	}
+### Social 🌐
+<a href="https://www.instagram.com/alvalens_/">
+   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/bloody#6118">
+   <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alvalens/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br>
+<br>
 
-	h1:hover {
-		font-variation-settings: "wght" 100, "ital" 0, "rota" 0;
-		text-shadow: 10px 10px 5px #07bccc44;
-		/* Text Stroke */
-		-webkit-text-stroke: 1px #fff;
-		animation-play-state: paused;
-	}
-}
-
-@keyframes hithere {
-  30% { transform: scale(1.1); }
-  40%, 60% { transform: rotate(-5deg) scale(1.1); }
-  50% { transform: rotate(5deg) scale(1.1); }
-  70% { transform: rotate(0deg) scale(1.1); }
-  100% { transform: scale(1.0); }
-}
-
-.container {
-  display: flex;
-  gap: 2rem;
-}
-
-.column {
-  font-size: 2rem;
-  padding: 1rem;
-  text-align: center;
-}
-
-/* Layer for text stroke */
-@layer tStroke {
-  .text-stroke {
-    -webkit-text-stroke: 0.3px #fff;
-    color: #000;
-  }
-}
-
-/* Layer for text gradient fill */
-@layer tGradient {
-  .text-gradient {
-    background-image: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(121, 112, 9, 1) 43%, rgba(0, 212, 255, 1) 100%);
-    color: transparent;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
-  }
-}
-
-/* Layer for multiple shadows */
-@layer tShadows {
-  .text-shadows {
-    text-shadow: 5px 5px 0px #07bcccdd,
-                 6px 6px 0px #e601c099,
-                 8px 8px 0px #e9019a88,
-                 11px 11px 0px #f4046877,
-                 15px 15px 10px #48289666;
-  }
-}
+[![AlephZe](https://dcbadge.vercel.app/api/server/cZH93kM)](https://discord.gg/cZH93kM)
+[![Psatir](https://dcbadge.vercel.app/api/server/4nv3uEcfsz)](https://discord.gg/4nv3uEcfsz)
